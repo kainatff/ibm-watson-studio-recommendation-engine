@@ -3,8 +3,6 @@
 ## Project Overview
 This project is part of the Data Scientist Nanodegree by Udacity. It follows a structured approach to building and evaluating recommendation systems, using data on user-article interactions to explore, rank, and personalize recommendations through various techniques.
 
-![IBM Watson](/ibm-watson.png)
-
 ## Project Structure
 The project is divided into the following tasks:
 
